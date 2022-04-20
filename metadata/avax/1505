@@ -1,0 +1,49 @@
+{
+  "name": "tiny dinos #1505",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 1505,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "gray"
+    },
+    {
+      "trait_type": "body",
+      "value": "aqua"
+    },
+    {
+      "trait_type": "chest",
+      "value": "orange"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "blue yellow"
+    },
+    {
+      "trait_type": "face",
+      "value": "normal"
+    },
+    {
+      "trait_type": "feet",
+      "value": "rocket boots"
+    },
+    {
+      "trait_type": "hands",
+      "value": "normal"
+    },
+    {
+      "trait_type": "head",
+      "value": "cap forwards"
+    },
+    {
+      "trait_type": "spikes",
+      "value": "dark gray"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "poly"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/1505.png",
+  "current-chain": "avax"
+}

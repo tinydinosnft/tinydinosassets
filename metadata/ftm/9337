@@ -1,0 +1,49 @@
+{
+  "name": "tiny dinos #9337",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 9337,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "blue"
+    },
+    {
+      "trait_type": "body",
+      "value": "gray"
+    },
+    {
+      "trait_type": "chest",
+      "value": "blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "blue"
+    },
+    {
+      "trait_type": "face",
+      "value": "normal"
+    },
+    {
+      "trait_type": "feet",
+      "value": "hoverboard"
+    },
+    {
+      "trait_type": "hands",
+      "value": "cast left"
+    },
+    {
+      "trait_type": "head",
+      "value": "chef"
+    },
+    {
+      "trait_type": "spikes",
+      "value": "green"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "eth"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/9337.png",
+  "current-chain": "ftm"
+}

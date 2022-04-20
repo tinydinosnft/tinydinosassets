@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #701",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 701,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "rexx"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "poly"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/701.png",
+  "current-chain": "avax"
+}

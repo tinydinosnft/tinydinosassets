@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #2022",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 2022,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "friendly dino"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "arb"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/2022.png",
+  "current-chain": "ftm"
+}

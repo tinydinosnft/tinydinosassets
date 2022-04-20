@@ -1,0 +1,49 @@
+{
+  "name": "tiny dinos #6039",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 6039,
+  "attributes": [
+    {
+      "trait_type": "background",
+      "value": "light brown"
+    },
+    {
+      "trait_type": "body",
+      "value": "pink linear gradient"
+    },
+    {
+      "trait_type": "chest",
+      "value": "light blue"
+    },
+    {
+      "trait_type": "eyes",
+      "value": "white"
+    },
+    {
+      "trait_type": "face",
+      "value": "mask"
+    },
+    {
+      "trait_type": "feet",
+      "value": "skateboard"
+    },
+    {
+      "trait_type": "hands",
+      "value": "normal"
+    },
+    {
+      "trait_type": "head",
+      "value": "chef"
+    },
+    {
+      "trait_type": "spikes",
+      "value": "purple"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "avax"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/6039.png",
+  "current-chain": "avax"
+}

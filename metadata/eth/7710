@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #7710",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 7710,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "mfer"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "eth"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/7710.png",
+  "current-chain": "eth"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #101",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 101,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "opt"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "opt"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/101.png",
+  "current-chain": "bnb"
+}

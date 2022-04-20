@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #8012",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 8012,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "rapter"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "eth"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/8012.png",
+  "current-chain": "arb"
+}

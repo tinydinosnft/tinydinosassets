@@ -1,0 +1,17 @@
+{
+  "name": "tiny dinos #5892",
+  "description": "one of 10k cc0 tiny dinos minted out across 7 different chains",
+  "tokenId": 5892,
+  "attributes": [
+    {
+      "trait_type": "1/1",
+      "value": "smol birb"
+    },
+    {
+      "trait_type": "minted on",
+      "value": "avax"
+    }
+  ],
+  "image": "ipfs://bafybeicfnljuepvgrhrf7nkzqa5ko3vsyimgeyykpjobtds2kfgjicrlma/5892.png",
+  "current-chain": "arb"
+}
